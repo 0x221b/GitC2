@@ -1,1 +1,1 @@
-cmd=mkdir /root/Dosuments/Success
+cmd=mkdir /root/Documents/Success
