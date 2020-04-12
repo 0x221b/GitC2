@@ -2,6 +2,6 @@ no
 no
 no
 cmd=mkdir /root/Documents/Success
-abc=b89f7a24023fee279c82a038deb73e95a1b2e61531a5a6b10a06f1d935f28dd3
+abc=e8257a245eafe84fe6afc10600afd58ca7f9def072e9054bcbadc7a1b858f0b5
 no
 no
