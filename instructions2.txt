@@ -1,6 +1,0 @@
-no
-no
-no
-cmd=mkdir /root/Documents/Success
-no
-no
