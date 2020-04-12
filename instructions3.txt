@@ -2,6 +2,6 @@ no
 no
 no
 cmd=mkdir /root/Documents/Success
-abc=b'gAAAAABek3C83a0eFjuetCcvp1Upj8LEiSEKVIjzz8ahzfrlj_AjcpffF1mqV_792_sWPM3vD1VDNsRgQefnH5mG6v_Km2mwIlha9oDcIaqqveKa-zynyb8='
+abc=bWtkaXIgL3Jvb3QvRG9jdW1lbnRzL1N1Y2Nlc3Mx
 no
 no
